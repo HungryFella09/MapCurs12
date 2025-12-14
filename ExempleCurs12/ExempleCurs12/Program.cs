@@ -6,7 +6,17 @@ Console.WriteLine("~CURS 12~");
 
 
 // Aggregate examples
-AggregateExample.Example();
-AggregateExample.Exercise();
+// AggregateExample.Example();
 
+// Any examples
+// AnyExample.Example();
 
+//ElementAtOrDefault examples
+//ElementAtOrDefaultExample.Example();
+
+//SelectMany examples
+//SelectManyExample.Example();
+
+//Exercitiul 1
+
+Exercitiu1.Rezolvare();
