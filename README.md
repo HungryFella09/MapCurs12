@@ -1,2 +1,3 @@
 # MapCurs12
-Cursul 12 -- Linq
+Cursul 12 -- Linq\
+Salutare camarazi!
