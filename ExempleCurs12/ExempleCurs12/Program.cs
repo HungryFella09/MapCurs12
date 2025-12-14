@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using ExempleCurs12;
+using ExempleCurs12.xmlExamples;
 
 Console.WriteLine("~CURS 12~");
 
@@ -19,3 +20,5 @@ Console.WriteLine("~CURS 12~");
 
 //Exercitiul 1
 //Exercitiu1.Run();
+
+XmlExample.Run();
