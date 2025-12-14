@@ -2,8 +2,8 @@
 
 public class SelectManyExample
 {
-    
     //combina 2 colectii intr-o singura colectie, asemanator cu cross join din sql
+    
     public static void  Example()
     {
         string[] fruits = { "Grape", "Orange", "Apple" };

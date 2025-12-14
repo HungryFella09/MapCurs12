@@ -11,12 +11,11 @@ Console.WriteLine("~CURS 12~");
 // Any examples
 // AnyExample.Example();
 
-//ElementAtOrDefault examples
-//ElementAtOrDefaultExample.Example();
-
 //SelectMany examples
 //SelectManyExample.Example();
 
-//Exercitiul 1
+//Concat examples
+//ConcatExample.Example();
 
-Exercitiu1.Rezolvare();
+//Exercitiul 1
+//Exercitiu1.Run();
