@@ -1,0 +1,15 @@
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\bin\Debug\net10.0\ExempleCurs12.exe
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\bin\Debug\net10.0\ExempleCurs12.deps.json
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\bin\Debug\net10.0\ExempleCurs12.runtimeconfig.json
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\bin\Debug\net10.0\ExempleCurs12.dll
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\bin\Debug\net10.0\ExempleCurs12.pdb
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.AssemblyInfoInputs.cache
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.AssemblyInfo.cs
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.csproj.CoreCompileInputs.cache
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.sourcelink.json
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.dll
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\refint\ExempleCurs12.dll
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.pdb
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ExempleCurs12.genruntimeconfig.cache
+D:\school\courses\MAPCurs12\MapCurs12\ExempleCurs12\ExempleCurs12\obj\Debug\net10.0\ref\ExempleCurs12.dll
