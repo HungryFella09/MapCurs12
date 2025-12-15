@@ -21,4 +21,4 @@ Console.WriteLine("~CURS 12~");
 //Exercitiul 1
 //Exercitiu1.Run();
 
-XmlExample.Run();
+//XmlExample.Run();
