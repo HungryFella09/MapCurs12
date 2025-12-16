@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\school\\courses\\MAPCurs12\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
+      "projectUniqueName": "D:\\METODE AVANSATE DE PROGRAMARE\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
       "projectName": "ExempleCurs12",
-      "projectPath": "D:\\school\\courses\\MAPCurs12\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\school\\courses\\MAPCurs12\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\obj\\",
+      "projectPath": "D:\\METODE AVANSATE DE PROGRAMARE\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\METODE AVANSATE DE PROGRAMARE\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\PC\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\Admin\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
