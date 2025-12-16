@@ -35,4 +35,5 @@ Console.WriteLine("~CURS 12~");
 //ExceptExample.Example();
 
 //Exercitiul 2
-Exercitiu2.Rezolvare();
+//Exercitiu2.Run();
+
