@@ -24,7 +24,7 @@ Console.WriteLine("~CURS 12~");
 
 //XmlExample.Run();
 
-//--------------------------Set 3 Exemple
+//--------------------------Set 2 Exemple
 //ToDictionary exemplu
 //ToDictionaryExample.Example();
 
@@ -33,3 +33,6 @@ Console.WriteLine("~CURS 12~");
 
 //Except exemplu
 //ExceptExample.Example();
+
+//Exercitiul 2
+Exercitiu2.Rezolvare();

@@ -22,6 +22,26 @@ public class Exercitiu1
         //TODO
     }
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     public static void Rezolvare()
     {
         //se da o lista de nume de rate, si doua liste de viteze
