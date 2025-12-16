@@ -1,4 +1,4 @@
-﻿namespace ExempleCurs12.Set3ExempleLinq;
+﻿namespace ExempleCurs12.Set2ExempleLinq;
 
 public class DistinctExample
 {

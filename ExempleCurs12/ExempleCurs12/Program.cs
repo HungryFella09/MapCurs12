@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using ExempleCurs12;
-using ExempleCurs12.Set3ExempleLinq;
+using ExempleCurs12.Set2ExempleLinq;
 using ExempleCurs12.xmlExamples;
 
 Console.WriteLine("~CURS 12~");
@@ -29,7 +29,7 @@ Console.WriteLine("~CURS 12~");
 //ToDictionaryExample.Example();
 
 //Distinct exemplu
-DistinctExample.Example();
+//DistinctExample.Example();
 
 //Except exemplu
 //ExceptExample.Example();
