@@ -1,5 +1,6 @@
 ﻿using System.Xml;
 using System.Xml.Linq;
+using ExempleCurs12.domain;
 
 namespace ExempleCurs12.xmlExamples;
 

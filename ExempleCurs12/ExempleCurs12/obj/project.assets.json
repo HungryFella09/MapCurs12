@@ -8,19 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\danru\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\METODE AVANSATE DE PROGRAMARE\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
+      "projectUniqueName": "D:\\Mihu\\Facultate o7\\MAP\\Curs12-bun\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
       "projectName": "ExempleCurs12",
-      "projectPath": "D:\\METODE AVANSATE DE PROGRAMARE\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\METODE AVANSATE DE PROGRAMARE\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\obj\\",
+      "projectPath": "D:\\Mihu\\Facultate o7\\MAP\\Curs12-bun\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\ExempleCurs12.csproj",
+      "packagesPath": "C:\\Users\\danru\\.nuget\\packages\\",
+      "outputPath": "D:\\Mihu\\Facultate o7\\MAP\\Curs12-bun\\MapCurs12\\ExempleCurs12\\ExempleCurs12\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\danru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -65,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Admin\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\danru\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
