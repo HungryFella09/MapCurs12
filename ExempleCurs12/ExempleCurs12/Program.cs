@@ -22,7 +22,7 @@ Console.WriteLine("~CURS 12~\n\n");
 //ConcatExample.Example();
 
 //Exercitiul 1
-//Exercitiu1.Run();
+Exercitiu1.Rezolvare();
 
 //--------------------------Set 2 Exemple
 //ToDictionary exemplu
