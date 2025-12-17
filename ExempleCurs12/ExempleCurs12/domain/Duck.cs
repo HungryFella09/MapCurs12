@@ -1,4 +1,4 @@
-﻿namespace ExempleCurs12;
+﻿namespace ExempleCurs12.domain;
 
 public class Duck
 {
