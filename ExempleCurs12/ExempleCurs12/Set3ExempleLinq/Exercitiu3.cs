@@ -27,17 +27,41 @@ public class Exercitiu3
 
 
         // SINTAXA QUERY
-        //var join1 =
-        //TODO
+        var join11 = from duck in OtherDucks
+            join child in children on duck.ChildId equals child.Id
+            orderby child.Name,duck.Name
+            select new
+            {
+                duckName = duck.Name,
+                childName = child.Name
+            };
+
+        var join12 = from duck in OtherDucks
+            join child in children on duck.ChildId equals child.Id
+            select new
+            {
+                duckName = duck.Name,
+                childName = child.Name
+            }into result
+            orderby result.childName, result.duckName
+            select result;
 
         // SINTAXA METHOD
-        //var join2  = 
-        //TODO
+        var join2 = OtherDucks.Join(
+            children,
+            duck => duck.ChildId,
+            child => child.Id,
+            (duck, child) => new
+            {
+                duckName = duck.Name,
+                childName = child.Name
+            })
+            .OrderBy(x => x.childName)
+            .ThenBy(x => x.duckName);
 
 
-
-        //foreach (var j in join2)
-        //    Console.WriteLine(String.Format("Duck name: {0}, child name: {1}", j.duckName, j.childName));
+        foreach (var j in join2)
+            Console.WriteLine(String.Format("Duck name: {0}, child name: {1}", j.duckName, j.childName));
 
     }
 }
